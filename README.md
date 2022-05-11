@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YooRi Chae</h1>
 
-- 🌱 I’m currently learning **AI, ML**
+- 🌱 I’m currently studying **AI, ML**
 
 - 📫 How to reach me **yoorichae@gmail.com**
 
